@@ -1,0 +1,13 @@
+﻿  Application.cpp
+  IndexBuffer.cpp
+  Renderer.cpp
+  Shader.cpp
+  Texture.cpp
+  VertexArray.cpp
+E:\LearnOFGLSL\LearnOfOpenGLSL\src\VertexArray.cpp(19,20): warning C4018: “<”: 有符号/无符号不匹配
+  VertexBuffer.cpp
+  Test.cpp
+  TestClearColor.cpp
+  TestTexture2D.cpp
+  正在生成代码...
+  LearnOfOpenGLSL.vcxproj -> E:\LearnOFGLSL\LearnOfOpenGLSL\Debug\LearnOfOpenGLSL.exe
